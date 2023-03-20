@@ -5,7 +5,7 @@ Presentation Link: https://drive.google.com/file/d/1lCRj8izJ2EskjJWlxN1-RvkjudO6
 Collaboratory Links:
 
 https://colab.research.google.com/drive/1l9PIfLvo8VN6jhc-wSEnGT5pEF40g7sn?usp=sharing
-https://colab.research.google.com/drive/1FusOpjhAAsOK0qqfzVXTmDctYCffrD5B?usp=sharing
+
 
 Background:
 
